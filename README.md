@@ -1,18 +1,20 @@
 # Alok Roy — Portfolio Website
 
-A static personal portfolio and project showcase built from the Massively template by HTML5 UP. The site introduces Alok Roy and links to selected projects and social profiles.
+A static personal portfolio and project showcase published as a GitHub Pages user site. The homepage introduces Alok Roy and links to selected projects; the About Me page contains additional profile information.
 
-## Stack
+## Site structure
 
-- HTML pages (`index.html`, `projects.html`)
-- CSS, JavaScript, and static assets in `assets/`
-- jQuery and Scrollex scripts bundled under `assets/js/`
-- Images in `images/`
+- index.html — introduction, featured project cards, and social links
+- projects.html — profile and about content
+- assets/ — template CSS, JavaScript, and supporting resources
+- images/ — portrait and project imagery
 
-## Run locally
+The layout is based on the Massively template by HTML5 UP. The pages load styling and scripts from the bundled assets directory, including jQuery and Scrollex-related scripts.
 
-Open `index.html` in a browser. To publish with GitHub Pages, use this repository as the `AlokRoyal.github.io` user site and ensure the pages and asset folders remain at the repository root.
+## Preview or publish
 
-## Credits and license
+Open index.html in a browser to preview locally. To publish as a GitHub Pages user site, retain the repository name AlokRoyal.github.io and publish from the configured Pages source. Keep the HTML pages and assets/ and images/ paths together at the repository root.
 
-The site uses the Massively template by HTML5 UP. See `LICENSE.txt` for the included license and attribution details. Third-party template assets retain their original terms.
+## Credits and licensing
+
+The original Massively template credit and its terms are included in README.txt and LICENSE.txt. Review those terms before redistributing or adapting the template.
